@@ -6,7 +6,9 @@ Start the project like you would any React project. There's no optimizations for
 
 ## Reuse
 
-Feel free to implement this in whatever project or codebase you want, but remember the icons aren't mine - they're available for free on 
+Feel free to implement this in whatever project or codebase you want, but remember the icons aren't mine - they're available for free on Pixeltrue.
 
-[https://www.pixeltrue.com/free-illustrations]: https://www.pixeltrue.com/free-illustrations	"PixelTrue"
+```
+https://www.pixeltrue.com/free-illustrations
+```
 
