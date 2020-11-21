@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Zwe Nyan Toe",
+        "job": "Web Developer",
+        "age": 19,
+        "location": "Yangon",
+        "description": "lorem",
+        "img": "/images/zwe.png"
+    },
+    {
+        "id": 2,
+        "name": "Sithu Aung",
+        "job": "Hospitality and Tourism",
+        "age": 20,
+        "location": "Yangon",
+        "description": "lorem",
+        "img": "./images/sta.png"
+    },
+    {
+        "id": 3,
+        "name": "Khant Min Han",
+        "job": "Professional Retard",
+        "age": 20,
+        "location": "Yangon",
+        "description": "lorem",
+        "img": "./images/kmh.png"
+    },
+    {
+        "id": 4,
+        "name": "Myo Htet Aung",
+        "job": "Pod Gamer",
+        "age": 20,
+        "location": "Yangon",
+        "description": "lorem",
+        "img": "./images/mha.png"
+    }
+]
